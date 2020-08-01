@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      <p>VybeCheck</p>
+        <p>VybeCheck</p>
       </div>
     )
   }
